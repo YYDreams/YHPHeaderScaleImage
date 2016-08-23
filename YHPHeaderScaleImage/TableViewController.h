@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TableViewController.h
 //  YHPHeaderScaleImage
 //
 //  Created by LOVE on 16/8/22.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TableViewController : UITableViewController
 
 @end
-
